@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Epicworld-m2vZ.aternos.me:",
+    "ip": "Epicworld-m2vZ.aternos.me:30993",
     "port": 30993,
     "version": "1.21.1"
   },
